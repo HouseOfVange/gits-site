@@ -1,0 +1,14 @@
+body {
+    background-color: dimgray;
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-around;
+    color: sandybrown;
+}
+
+img {
+    width: 30px;
+}
